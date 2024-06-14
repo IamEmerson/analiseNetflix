@@ -7,5 +7,6 @@ As analises serão divididas em cinco partes:
 3-	Diretores e Elenco mais prolíficos
 4-	Duração Média por tipo
 5-	Análise de Gênero e Classificação
+6-  Análise de adições recentes
 
 Essas análises fornecerão insights valiosas sobre o catálogo de filmes e séries da Netflix, permitindo entender melhor a diversidade, preferências do público e tendências ao longo do tempo.
